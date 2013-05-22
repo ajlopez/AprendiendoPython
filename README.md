@@ -12,6 +12,8 @@ y, como yo, quiere aprender ahora a programar en Python.
 
 ## Índice
 
+1. [Introducción](https://github.com/ajlopez/AprendiendoPython/blob/master/capitulos/01-intro.md#introduccin)
+
 (A completar)
 
 ## Notas
