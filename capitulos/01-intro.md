@@ -33,7 +33,39 @@ lenguajes.
 
 (A completar)
 
+En estas páginas, voy a usar Python 3.x, aclarando cuando sea necesario la diferencia con Python 2.x.
+
 ## Python interactivo
+
+Una vez instalado Python, agregamos su directorio de instalación a nuestro PATH. En mi máquina Windows, lo
+instalé en `c:\Python32` (vean que se agrega ese directorio directamente al PATH, no tiene un subdirectorio `bin`).
+Ahora tenemos disponibles desde la línea de comando el programa `python`. Por ejemplo
+
+- Si estamos en **Mac OS X** abrimos `Terminal` e ingresamos `python` y enter
+- Si estamos en **Linux** abrimos un shell e ingresamos `python` y enter
+- Si estamos en **Windows** abrimos una caja de DOS e ingresamos `python` y enter
+
+En una de mis instalaciones aparece algo como
+
+```
+Python 3.2.2 (default, Sep  4 2011, 09:51:08) [MSC v.1500 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+Podemos ingresar comandos desde ese prompt `>>>`. Como:
+
+```
+>>> print(1+2)
+3
+```
+
+Vean que obtenemos el resultado de ejecutar la función ya definida `print`. Pueden salir del
+modo interactivo ingresando:
+
+```
+>>> exit()
+```
 
 (A completar)
 

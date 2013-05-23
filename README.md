@@ -48,7 +48,7 @@ para que tengan una sección Pyton.
 ## Orígenes
 
 Ya dí una charla presentando varios lenguajes, dedicando una media hora a Python. Quiero dar una charla más
-extensa, de Introducción a Python, en Buenos Aires, en Julio de 2013. Este proyecto me permite publicar
+extensa, de dos horas, y teniendo como tema Introducción a Python. Será en Buenos Aires, en Julio de 2013. Este proyecto me permite publicar
 con más detalle los ejemplos y conceptos que doy en esas charlas.
 
 ## Colaborar
