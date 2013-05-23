@@ -25,6 +25,9 @@ que no sea el estilo usado en países de habla hispana, pero es lo que se acostum
 
 Una lista de recursos adicionales a visitar, en español
 
+- [PyAr Python Argentina](http://python.org.ar/pyar/)
+- [Aprendiendo Python](http://python.org.ar/pyar/AprendiendoPython)
+
 (A completar)
 
 ## Recursos en Inglés
