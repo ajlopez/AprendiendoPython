@@ -27,6 +27,8 @@ Una lista de recursos adicionales a visitar, en español
 
 - [PyAr Python Argentina](http://python.org.ar/pyar/)
 - [Aprendiendo Python](http://python.org.ar/pyar/AprendiendoPython)
+- [Tutorial de Python 'Python para Todos'](http://mundogeek.net/tutorial-python/)
+- [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf)
 
 (A completar)
 
