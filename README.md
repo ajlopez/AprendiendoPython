@@ -13,6 +13,8 @@ y, como yo, quiere aprender ahora a programar en Python.
 ## Índice
 
 1. [Introducción](https://github.com/ajlopez/AprendiendoPython/blob/master/capitulos/01-intro.md#introduccin)
+1. [Primer Programa](https://github.com/ajlopez/AprendiendoPython/blob/master/capitulos/02-primerprograma.md#primer-programa)
+1. [Strings y Números](https://github.com/ajlopez/AprendiendoPython/blob/master/capitulos/03-stringsnumeros.md#strings-y-nmeros)
 
 (A completar)
 
