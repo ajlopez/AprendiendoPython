@@ -141,6 +141,7 @@ Traducción que encontré en Python Argentina:
 
 ## Fuente consultadas:
 
-- [The Zen of Python](htp://www.python.org/dev/peps/pep-0020/)
+- [The Zen of Python](http://www.python.org/dev/peps/pep-0020/)
+- [Python para Todos](http://mundogeek.net/tutorial-python/)
 
 (A completar)

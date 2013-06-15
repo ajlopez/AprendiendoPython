@@ -38,8 +38,21 @@ Una lista de recursos adicionales a visitar, en español
 Hay mucha información en inglés
 
 - [Google's Python Class](https://developers.google.com/edu/python/)
+- [Learn Python The Hard Way](http://learnpythonthehardway.org/)
+- [Dive Into Python Python from novice to pro](http://www.diveintopython.net/)
+- [Byte of Python](http://www.swaroopch.com/notes/Python)
+- [How to Think Like a Computer Scientist - Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
+- [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+- [Thinking in Python](http://www.mindview.net/Books/TIPython/)
+- [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
+- [Invent Your Own Computer Games With Python](http://inventwithpython.com/)
+- [Python Bibliotheca](http://openbookproject.net/pybiblio/)
+- [Python for Fun](http://www.openbookproject.net/py4fun/)
+- [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 
 (A completar)
+
+Ver [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books).
 
 ## Fuentes consultadas
 
