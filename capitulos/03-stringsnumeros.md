@@ -2,6 +2,43 @@
 
 # Strings
 
+Sin necesidar de usar `print`, podemos ingresar en el intérprete interactivo:
+```
+>>> "Hola mundo"
+Hola mundo
+```
+
+Como vimos en el primer programa, podemos usar comillas simples:
+```
+>>> 'Hola mundo'
+Hola mundo
+```
+
+Hasta podemos poner dos strings uno seguiendo al otro:
+```
+>>> 'Hola ' 'mundo'
+Hola mundo
+>>> "Hola " "mundo"
+Hola mundo
+```
+
+Esto sirve para strings literales. No nos sirve para variables:
+```
+>>> x = 'Hola '
+>>> y = 'mundo'
+>>> x y
+  File "<stdin>", line 1
+    x y
+      ^
+SyntaxError: invalid syntax
+```
+
+Pero podemos concatenar valores string con el operador de suma:
+```
+>>> x + y
+Hola mundo
+```
+
 (A completar)
 
 ## Números y Expresiones
@@ -52,6 +89,22 @@ Como en otros lenguajes, tenemos el operador de módulo (quedarse con el resto de
 5
 ```
 
+### Enteros Grandes
 
+(A completar)
+
+## Comentarios
+
+Veamos un tema adicional, colado en este capítulo. En Python, el caracter `#` (numeral) tiene un significado
+especial. Cuando se lo encuentra, todo texto hasta el fin de la línea es un comentario que se ignora. Ejemplos:
+
+```
+# Ingrese su nombre
+nombre = input('¿Cuál es su nombre?')
+
+print(1+2) # imprime 3
+```
+
+En lo posible, tratemos que el código del programa hable por sí mismo, sin necesidad de poner comentarios de línea.
 
 

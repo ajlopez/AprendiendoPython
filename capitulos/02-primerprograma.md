@@ -29,6 +29,8 @@ print('Hola, mundo')
 python hola.py
 ```
 
+### En UNIX/Linux
+
 Si estamos en UNIX/Linux, podemos agregar una línea con `shebang`:
 ```python
 #!/usr/bin/python
@@ -42,7 +44,7 @@ chmod +x hola.py
 
 Y ahora podemos ejecutarlo simplemente ingresando:
 ```
-hola.py
+./hola.py
 ```
 
 Puede que en algunas distribuciones tengamos que cambiar el valor `#!/usr/bin/python`. Se puede usar
@@ -52,6 +54,8 @@ el truco de poner:
 print('Hola, mundo')
 ```
 El `/user/bin/env` interroga al sistema operativo sobre el lugar donde está `python` y lo ejecuta.
+
+### En Windows
 
 En Windows, si tenemos instaladas las distribuciones de Python comunes, con hacer doble click sobre el archivo éste
 se ejecuta automáticamente. El instalador asoció la extensión `.py` con el ejecutor `python`. El programa tiene un 
