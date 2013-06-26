@@ -28,7 +28,7 @@ que no sea el estilo usado en países de habla hispana, pero es lo que se acostum
 Una lista de recursos adicionales a visitar, en español
 
 - [PyAr Python Argentina](http://python.org.ar/pyar/)
-- [Tutorial de Python en Español](http://docs.python.org.ar/tutorial/index.html)
+- [Tutorial de Python en Español](http://docs.python.org.ar/tutorial/)
 - [Aprendiendo Python](http://python.org.ar/pyar/AprendiendoPython)
 - [Tutorial de Python 'Python para Todos'](http://mundogeek.net/tutorial-python/)
 - [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf)
