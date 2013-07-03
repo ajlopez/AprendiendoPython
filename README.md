@@ -56,6 +56,8 @@ Hay mucha información en inglés
 
 Ver [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books).
 
+La presentación que dió origen al curso la pueden ver en [TalkPythonIntro](https://github.com/ajlopez/TalkPythonIntro).
+
 ## Fuentes consultadas
 
 (A completar)
