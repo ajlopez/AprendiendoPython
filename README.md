@@ -51,6 +51,7 @@ Hay mucha información en inglés
 - [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 - [Python for Fun](http://www.openbookproject.net/py4fun/)
 - [The Django Book](http://www.djangobook.com/en/2.0/index.html)
+- [Python eBooks](http://www.grepscience.com/?p=14513)
 
 (A completar)
 
