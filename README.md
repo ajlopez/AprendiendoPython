@@ -53,6 +53,7 @@ Hay mucha información en inglés
 - [Python for Fun](http://www.openbookproject.net/py4fun/)
 - [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 - [Python eBooks](http://www.grepscience.com/?p=14513)
+- [Things Every Python Programmer Should Know but Generally Don't](http://zhehaomao.com/blog/2011/07/27/python-programming.html)
 
 (A completar)
 
