@@ -54,6 +54,7 @@ Hay mucha información en inglés
 - [The Django Book](http://www.djangobook.com/en/2.0/index.html)
 - [Python eBooks](http://www.grepscience.com/?p=14513)
 - [Things Every Python Programmer Should Know but Generally Don't](http://zhehaomao.com/blog/2011/07/27/python-programming.html)
+- [How IPython Notebook and Github have changed the way I teach Python](http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/)
 
 (A completar)
 
