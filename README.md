@@ -32,6 +32,9 @@ Una lista de recursos adicionales a visitar, en español
 - [Aprendiendo Python](http://python.org.ar/pyar/AprendiendoPython)
 - [Tutorial de Python 'Python para Todos'](http://mundogeek.net/tutorial-python/)
 - [Introducción a la programación con Python](http://www.uji.es/bin/publ/edicions/ippython.pdf)
+- [Introducción a Python](http://www.slideshare.net/jileon/00-introduccin)
+- [El lenguaje Python](http://www.slideshare.net/jileon/01-el-lenguaje-python)
+- [Python Programación orientada a objetos y funcional](http://www.slideshare.net/jileon/02-python-programacin-orientada-a-objetos-y-funcional)
 
 (A completar)
 
