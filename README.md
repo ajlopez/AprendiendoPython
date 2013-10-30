@@ -55,6 +55,8 @@ Hay mucha información en inglés
 - [Python eBooks](http://www.grepscience.com/?p=14513)
 - [Things Every Python Programmer Should Know but Generally Don't](http://zhehaomao.com/blog/2011/07/27/python-programming.html)
 - [How IPython Notebook and Github have changed the way I teach Python](http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/)
+- [Best Python Resources for Beginners and Professionals](http://freepythontips.wordpress.com/2013/09/01/best-python-resources/)
+- [Python for Developers](http://ricardoduarte.github.io/python-for-developers/)
 
 (A completar)
 
