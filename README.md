@@ -60,6 +60,7 @@ Hay mucha información en inglés
 - [How IPython Notebook and Github have changed the way I teach Python](http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/)
 - [Best Python Resources for Beginners and Professionals](http://freepythontips.wordpress.com/2013/09/01/best-python-resources/)
 - [Python for Developers](http://ricardoduarte.github.io/python-for-developers/)
+- [Python progression path - From apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 
 (A completar)
 
