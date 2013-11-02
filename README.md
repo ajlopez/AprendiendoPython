@@ -61,6 +61,7 @@ Hay mucha información en inglés
 - [Best Python Resources for Beginners and Professionals](http://freepythontips.wordpress.com/2013/09/01/best-python-resources/)
 - [Python for Developers](http://ricardoduarte.github.io/python-for-developers/)
 - [Python progression path - From apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
+- [Google’s Python Lessons are Awesome](http://blog.hartleybrody.com/google-python/)
 
 (A completar)
 
