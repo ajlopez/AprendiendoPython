@@ -63,6 +63,7 @@ Hay mucha información en inglés
 - [Python progression path - From apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 - [Google’s Python Lessons are Awesome](http://blog.hartleybrody.com/google-python/)
 - [Python For Beginners](http://www.pythonforbeginners.com/)
+- [Tutorial - Learn Python in 10 minutes](http://www.stavros.io/tutorials/python/)
 
 (A completar)
 
