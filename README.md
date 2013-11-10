@@ -64,6 +64,7 @@ Hay mucha información en inglés
 - [Google’s Python Lessons are Awesome](http://blog.hartleybrody.com/google-python/)
 - [Python For Beginners](http://www.pythonforbeginners.com/)
 - [Tutorial - Learn Python in 10 minutes](http://www.stavros.io/tutorials/python/)
+- [Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 
 (A completar)
 
