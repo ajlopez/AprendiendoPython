@@ -65,6 +65,7 @@ Hay mucha información en inglés
 - [Python For Beginners](http://www.pythonforbeginners.com/)
 - [Tutorial - Learn Python in 10 minutes](http://www.stavros.io/tutorials/python/)
 - [Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+- [Learning Python the Pragmatic Way](http://blog.jmoz.co.uk/learning-python-the-pragmatic-way/)
 
 (A completar)
 
