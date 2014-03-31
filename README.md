@@ -67,6 +67,7 @@ Hay mucha información en inglés
 - [Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 - [Learning Python the Pragmatic Way](http://blog.jmoz.co.uk/learning-python-the-pragmatic-way/)
 - [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
+- [20 Good Functions To Know In Python](http://thelivingpearl.com/2014/03/24/20-good-functions-to-know-in-python/)
 
 (A completar)
 
