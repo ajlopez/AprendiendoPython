@@ -35,6 +35,7 @@ Una lista de recursos adicionales a visitar, en español
 - [Introducción a Python](http://www.slideshare.net/jileon/00-introduccin)
 - [El lenguaje Python](http://www.slideshare.net/jileon/01-el-lenguaje-python)
 - [Python Programación orientada a objetos y funcional](http://www.slideshare.net/jileon/02-python-programacin-orientada-a-objetos-y-funcional)
+- [Django, Todo lo que quieres saber y algo mas](http://django-book.blogspot.com.ar/)
 
 (A completar)
 
