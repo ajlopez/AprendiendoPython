@@ -69,6 +69,10 @@ Hay mucha información en inglés
 - [Learning Python the Pragmatic Way](http://blog.jmoz.co.uk/learning-python-the-pragmatic-way/)
 - [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
 - [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
+- [What Is Async, How Does It Work, And When Should I Use It?](http://www.pyvideo.org/video/2565/what-is-async-how-does-it-work-and-when-should)
+- [Twisted Mixing](http://www.pyvideo.org/video/2597/twisted-mixing)
+- [Descriptors and Metaclasses - Understanding and Using Python's More Advanced Features](http://www.pyvideo.org/video/2560/descriptors-and-metaclasses-understanding-and-u)
+- [Decorators: A Powerful Weapon in your Python Arsenal](http://www.pyvideo.org/video/2574/decorators-a-powerful-weapon-in-your-python-arse)
 
 (A completar)
 
