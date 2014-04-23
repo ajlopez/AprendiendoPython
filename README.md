@@ -75,6 +75,7 @@ Hay mucha información en inglés
 - [Descriptors and Metaclasses - Understanding and Using Python's More Advanced Features](http://www.pyvideo.org/video/2560/descriptors-and-metaclasses-understanding-and-u)
 - [Decorators: A Powerful Weapon in your Python Arsenal](http://www.pyvideo.org/video/2574/decorators-a-powerful-weapon-in-your-python-arse)
 - [Data Model](https://docs.python.org/2/reference/datamodel.html) Objects, values, types, and more
+- [How to create a new unknown or dynamic/expando object in Python](http://stackoverflow.com/questions/14015592/how-to-create-a-new-unknown-or-dynamic-expando-object-in-python)
 
 (A completar)
 
