@@ -44,6 +44,7 @@ Una lista de recursos adicionales a visitar, en español
 Hay mucha información en inglés
 
 - [Learning Python](http://www.afterhoursprogramming.com/tutorial/Python/Introduction/) with online simulator
+- [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/)
 - [Dive Into Python Python from novice to pro](http://www.diveintopython.net/)
