@@ -44,6 +44,7 @@ Una lista de recursos adicionales a visitar, en español
 Hay mucha información en inglés
 
 - [Learning Python](http://www.afterhoursprogramming.com/tutorial/Python/Introduction/) with online simulator
+- [Check IO is the game for coders](http://www.checkio.org/)
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/)
@@ -77,6 +78,7 @@ Hay mucha información en inglés
 - [Decorators: A Powerful Weapon in your Python Arsenal](http://www.pyvideo.org/video/2574/decorators-a-powerful-weapon-in-your-python-arse)
 - [Data Model](https://docs.python.org/2/reference/datamodel.html) Objects, values, types, and more
 - [How to create a new unknown or dynamic/expando object in Python](http://stackoverflow.com/questions/14015592/how-to-create-a-new-unknown-or-dynamic-expando-object-in-python)
+- [An Introduction to Python Lists](http://effbot.org/zone/python-list.htm)
 
 (A completar)
 
