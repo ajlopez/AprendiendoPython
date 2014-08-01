@@ -36,6 +36,7 @@ Una lista de recursos adicionales a visitar, en español
 - [El lenguaje Python](http://www.slideshare.net/jileon/01-el-lenguaje-python)
 - [Python Programación orientada a objetos y funcional](http://www.slideshare.net/jileon/02-python-programacin-orientada-a-objetos-y-funcional)
 - [Django, Todo lo que quieres saber y algo mas](http://django-book.blogspot.com.ar/)
+- [Desarrollador orientado a Python](http://www.empleartec.org.ar/cursos/185/desarrollador-orientado-a-python)
 
 (A completar)
 
