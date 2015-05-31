@@ -48,6 +48,7 @@ Hay mucha información en inglés
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/)
+- [Awesome Python](https://github.com/vinta/awesome-python)
 - [Dive Into Python Python from novice to pro](http://www.diveintopython.net/)
 - [Byte of Python](http://www.swaroopch.com/notes/Python)
 - [How to Think Like a Computer Scientist - Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
