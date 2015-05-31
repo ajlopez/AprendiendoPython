@@ -36,6 +36,7 @@ Una lista de recursos adicionales a visitar, en español
 - [El lenguaje Python](http://www.slideshare.net/jileon/01-el-lenguaje-python)
 - [Python Programación orientada a objetos y funcional](http://www.slideshare.net/jileon/02-python-programacin-orientada-a-objetos-y-funcional)
 - [Django, Todo lo que quieres saber y algo mas](http://django-book.blogspot.com.ar/)
+- [Desarrollador orientado a Python](http://www.empleartec.org.ar/cursos/185/desarrollador-orientado-a-python)
 
 (A completar)
 
@@ -81,6 +82,8 @@ Hay mucha información en inglés
 - [How to create a new unknown or dynamic/expando object in Python](http://stackoverflow.com/questions/14015592/how-to-create-a-new-unknown-or-dynamic-expando-object-in-python)
 - [An Introduction to Python Lists](http://effbot.org/zone/python-list.htm)
 - [20 of the Best Free Python Books](http://www.linuxlinks.com/article/20121228122317781/20oftheBestFreePythonBooks-Part1.html)
+- [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
+- [Python Memory Profiler](https://pypi.python.org/pypi/memory_profiler)
 
 (A completar)
 
