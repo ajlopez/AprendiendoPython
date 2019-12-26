@@ -84,6 +84,7 @@ Hay mucha información en inglés
 - [20 of the Best Free Python Books](http://www.linuxlinks.com/article/20121228122317781/20oftheBestFreePythonBooks-Part1.html)
 - [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
 - [Python Memory Profiler](https://pypi.python.org/pypi/memory_profiler)
+- [Top 5 Books to Learn Python in 2020 - Best of Lot](https://javarevisited.blogspot.com/2019/07/top-5-books-to-learn-python-in-2019.html)
 
 (A completar)
 
